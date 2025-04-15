@@ -53,5 +53,5 @@ Icons and banner artwork were generated using **OpenAI’s GPT-4o image generati
 ---
 
 📬 **Support Email**: [rana.ios.app@gmail.com](mailto:rana.ios.app@gmail.com)  
-🔐 [Privacy Policy](./privacy.md)  
+🔐 [Privacy Policy](./privacy-policy.md)  
 🆘 [Support Page](./support.md)
