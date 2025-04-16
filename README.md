@@ -17,7 +17,7 @@ Most route optimization apps today are built for enterprise users and come with 
 RANA is free to try, with generous usage to help you evaluate the full app experience:
 
 - ✅ **2 optimizations per day**  
-- ✅ **10 optimizations per month**  
+- ✅ **5 optimizations per month**  
 - ✅ **Up to 20 destinations per route**  
 
 This is more than enough to experience how RANA improves your planning — and gives you a clear sense of the value provided in the full version.
