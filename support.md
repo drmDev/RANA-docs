@@ -1,8 +1,24 @@
-Support – RANA (Really Awesome Navigation App)
+# Support – RANA (Really Awesome Navigation App)
 
-* If you’re experiencing any issues, have suggestions, or just want to share feedback about RANA, we’d love to hear from you!
-* Additionally, if you would be interested in a full version to unlock unlimited usage, please get in contact with me with your input!
+Thank you for using **RANA**!
 
-📧 Contact Email: rana.ios.app@gmail.com
+If you're experiencing any issues, have suggestions, or just want to share feedback, I'd love to hear from you.
 
-I will read and respond to each and every email! Thank you for your support and feedback!
+### 📬 Contact Support
+
+For bug reports, feature requests, or general inquiries:
+
+**📧 Email:** [rana.ios.app@gmail.com](mailto:rana.ios.app@gmail.com)
+
+> I personally read and respond to every message — your input helps make RANA better!
+
+---
+
+### 💡 Interested in an Expanded Version?
+
+If you’d be interested in a future version of RANA with **unlimited usage**, please let me know!  
+User interest will help shape the direction of future development.
+
+---
+
+Thank you again for your support and feedback!
