@@ -1,35 +1,35 @@
 # RANA – Really Awesome Navigation App
 
-🚗 **Simple Efficient Route Planning – No Subscriptions. Ever.**
+🚗 **Simple, Efficient Route Planning — 100% Free to Use**
 
 ## Why RANA?
 
-Most route optimization apps today are built for enterprise users and come with **hefty monthly subscription fees**. But what if you just need a simple, smart way to plan routes for deliveries, errands, or travel – without a recurring cost?
+Most route optimization apps are built for enterprise use and come with **hefty monthly subscription fees**. But what if you just need a smart, simple way to plan errands, deliveries, or travel — with no commitment?
 
-**RANA was built with everyday users in mind**:
-- 🧠 Smart, lightweight algorithms that avoid bloated server costs  
+**RANA is designed for everyday users**:
+- 🧠 Smart, lightweight algorithms that skip bloated server costs  
 - 🗺️ Seamlessly integrated with Apple Maps  
-- 🔒 No tracking, no data harvesting – ever
+- 🔒 No tracking, no data harvesting — ever
 
-## Free Version Features
+## Free Version Limits
 
-RANA is free to try, with generous usage to help you evaluate the full app experience:
+RANA is **completely free to use**, with generous limits designed for regular users:
 
-- ✅ **12 optimizations per month**  
-- ✅ **Up to 20 destinations per route**  
+- ✅ **12 optimizations per month** *(resets on the 1st of each month)*  
+- ✅ **Up to 20 destinations per route**
 
-This is more than enough to experience how RANA improves your planning — and gives you a clear sense of the value provided in the full version. If there is substantial interest, I will put more time into the full (one-time payment) version to allow unlocking unlimited monthly usage.
+If enough users find value in RANA, I may offer an optional paid version in the future with expanded limits — but there is **no paid version available at this time**.
 
 ## Platform Support
-
-- ✅ **iOS only** – developed in **Swift** using **Xcode**  
-- 🧭 Built on **Apple’s MapKit**, which allows free, integrated navigation  
-- ⛔ Android is not currently supported due to the lack of a comparable free navigation stack
+![iOS](https://img.shields.io/badge/platform-iOS-lightgrey)
+- ✅ **iOS only** — developed in **Swift** using **Xcode**  
+- 🧭 Built on **Apple’s MapKit**, offering free, integrated navigation  
+- ⛔ Android is not currently supported
 
 ## Development Notes
 
 RANA is written entirely in **Swift** and developed with **Xcode**.  
-This public repository contains support and legal information.  
+This public repository contains support documentation and legal information.  
 The full source code is private, as the app is a commercial product.
 
 ## Visual Assets
@@ -42,3 +42,4 @@ Icons and banner artwork were generated using **OpenAI’s GPT-4o image generati
 📬 **Support Email**: [rana.ios.app@gmail.com](mailto:rana.ios.app@gmail.com)  
 🔐 [Privacy Policy](./privacy-policy.md)  
 🆘 [Support Page](./support.md)
+
