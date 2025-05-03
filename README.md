@@ -1,6 +1,6 @@
 # RANA – Really Awesome Navigation App
 
-🚗 **Efficient Route Planning with a One-Time Purchase – No Subscriptions. Ever.**
+🚗 **Simple Efficient Route Planning – No Subscriptions. Ever.**
 
 ## Why RANA?
 
