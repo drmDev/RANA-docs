@@ -6,8 +6,7 @@
 
 Most route optimization apps today are built for enterprise users and come with **hefty monthly subscription fees**. But what if you just need a simple, smart way to plan routes for deliveries, errands, or travel – without a recurring cost?
 
-**RANA was built with everyday users in mind**:  
-- 🏷️ **One-time purchase** – just $4.99 (less than your morning coffee ☕)  
+**RANA was built with everyday users in mind**:
 - 🧠 Smart, lightweight algorithms that avoid bloated server costs  
 - 🗺️ Seamlessly integrated with Apple Maps  
 - 🔒 No tracking, no data harvesting – ever
@@ -16,22 +15,10 @@ Most route optimization apps today are built for enterprise users and come with 
 
 RANA is free to try, with generous usage to help you evaluate the full app experience:
 
-- ✅ **2 optimizations per day**  
-- ✅ **5 optimizations per month**  
+- ✅ **12 optimizations per month**  
 - ✅ **Up to 20 destinations per route**  
 
-This is more than enough to experience how RANA improves your planning — and gives you a clear sense of the value provided in the full version.
-
-## How It Works
-
-RANA uses an efficient hybrid algorithm to optimize your route quickly and cost-effectively:
-
-- 📍 **Nearest Neighbor** – builds a fast initial route  
-- ♻️ **2-opt Optimization** – refines the path for better efficiency  
-- 🧭 **MapKit + Directions API** – powers real-world turn-by-turn navigation  
-- 🔁 **Fallbacks and Smart Defaults** – minimize delays and avoid 3rd-party fees
-
-By skipping costly APIs (like Google's) and using optimized logic, RANA keeps performance high and costs low.
+This is more than enough to experience how RANA improves your planning — and gives you a clear sense of the value provided in the full version. If there is substantial interest, I will put more time into the full (one-time payment) version to allow unlocking unlimited monthly usage.
 
 ## Platform Support
 
