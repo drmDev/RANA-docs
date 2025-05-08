@@ -17,10 +17,15 @@ For bug reports, feature requests, or general inquiries:
 
 ---
 
-### 💡 Interested in an Expanded Version?
+### ☕ Want to Support the App?
 
-If you’d like to see a future version of RANA with **unlimited usage** or additional features, please let me know!  
-User interest helps shape the direction of future development.
+RANA is completely free to use — no ads, subscriptions, or limitations.
+
+If you enjoy the app and want to support its ongoing development, you can do so here:
+
+👉 [https://ko-fi.com/derekmonturo](https://ko-fi.com/derekmonturo)
+
+Your support is optional, but always appreciated!
 
 ---
 
