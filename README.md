@@ -1,6 +1,6 @@
 # RANA – Really Awesome Navigation App
 
-🚗 **Simple, Efficient Route Planning — 100% Free to Use**
+🚗 **Simple, Efficient Route Planning — 100% Free, Unlimited Use**
 
 ---
 
@@ -10,39 +10,24 @@ Most route optimization apps are built for enterprise use and come with **hefty 
 
 **RANA is designed for everyday users**:
 - 🧠 Smart, lightweight algorithms that skip bloated server costs  
-- 🗺️ Seamlessly hands off your route to **Apple Maps for final navigation**
+- 🗺️ Seamlessly hands off your route to your GPS app for final navigation  
 - 🔒 No tracking, no data harvesting — ever
 
 ---
 
-## 🚫 Not iOS Maps — Here’s the Difference
+## 🎁 100% Free. Unlimited Use.
 
-RANA is *not* a replacement for Apple Maps — it enhances it.
+RANA is currently **completely free to use** with:
 
-**iOS Maps** allows users to manually enter destinations and then navigates them in the order entered.
+- ✅ **Unlimited optimizations**
+- ✅ **Unlimited destinations per route**
 
-**RANA**, on the other hand:
-- ✅ Optimizes multiple stops to **find the most efficient route**
-- ✅ Accepts **lists of destinations**, then intelligently reorders them
-- ✅ Sends the **optimized result** to iOS Maps for actual GPS navigation
+There are no paywalls, ads, or usage limits.  
+If you find it helpful and would like to support continued development:
 
-This makes it ideal for:
-- Running errands
-- Making deliveries
-- Planning complex road trips
+☕ [Support the app on Ko-fi](https://ko-fi.com/derekmonturo)
 
-To avoid confusion, RANA only triggers navigation **after** optimization.
-
----
-
-## Free Version Limits
-
-RANA is **completely free to use**, with generous limits designed for regular users:
-
-- ✅ **12 optimizations per month** *(resets on the 1st of each month)*  
-- ✅ **Up to 20 destinations per route**
-
-If enough users find value in RANA, I may offer an optional paid version in the future with expanded limits — but there is **no paid version available at this time**.
+Your support is optional, but always appreciated!
 
 ---
 
@@ -72,3 +57,5 @@ Icons and banner artwork were generated using **OpenAI’s GPT-4o image generati
 📬 **Support Email**: [rana.ios.app@gmail.com](mailto:rana.ios.app@gmail.com)  
 🔐 [Privacy Policy](./privacy-policy.md)  
 🆘 [Support Page](./support.md)
+
+---
